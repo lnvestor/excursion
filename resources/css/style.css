@@ -1,0 +1,75 @@
+body {
+
+    margin: 0rem 1rem;
+    background-color: black;
+}
+
+.discover {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.downlaod-app > a{
+
+
+    color: aquamarine;
+    font-size: 16px;
+
+}
+
+.downlaod-app {
+
+align-items: center;
+text-align: center;
+}
+
+.video-land {
+
+    align-items: center;
+    text-align: center;
+}
+.sec-a > h4{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+    text-align: center;
+
+}
+.sec-a > p {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+.imag-camp {
+
+    align-items: center;
+    text-align: center;
+}
+.icon-cell {
+margin-top: 1rem;
+    text-align: center;
+}
+
+.downlaod-app-a {
+
+    align-items: center;
+    text-align: center;
+    }
+    .downlaod-app-a >a {
+
+      color: aquamarine;
+        }
+
+        footer > h5 {
+
+align-items: flex-end;   
+text-align: end;
+
+color: gray;}
